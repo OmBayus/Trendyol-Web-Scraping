@@ -13,6 +13,8 @@ npm install
 EMAIL ve PASS kısımlarına gönderici mail adresini giriyoruz.<br/>
 TOEMAIL kısmına alıcı mail adresinin giriyoruz.
 
+Gönderici mail adresi https://www.google.com/settings/security/lesssecureapps linkinden güvenlik ayarı yapılmalıdır.
+
 ### Örnek .env dosyası
 ````
 EMAIL='deneme@gmail.com'
