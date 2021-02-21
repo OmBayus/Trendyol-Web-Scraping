@@ -5,7 +5,7 @@ const CronJob = require("cron").CronJob
 const nodemailer = require("nodemailer")
 
 if (process.argv.length < 3) {
-      console.log('Please provide the password as an argument: node mongo.js <password>')
+      console.log('Please provide the link as an argument: node app.js "trendyol-urun-link"')
       process.exit(1)
 }
 
