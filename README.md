@@ -31,3 +31,9 @@ node app.js "trendyol-urun-linki"
 ````
 node app.js "https://www.trendyol.com/apple/iphone-11-64gb-beyaz-cep-telefonu-apple-turkiye-garantili-aksesuarsiz-kutu-p-65149494"
 ````
+
+### License & copyright
+
+Copyright (c) 2021 Omer Bayramcavus
+
+Licensed under the [MIT License](LICENSE).
